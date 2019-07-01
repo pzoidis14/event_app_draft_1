@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name":"eventApp",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "First draft at the event app",
   "engines": {
     "node": ">= 7.0.0"
   },
